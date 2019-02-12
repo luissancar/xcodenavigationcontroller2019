@@ -1,0 +1,30 @@
+//
+//  View2Controller.swift
+//  fchfgh
+//
+//  Created by Nosferatu on 12/02/2019.
+//  Copyright © 2019 luissancar. All rights reserved.
+//
+
+import UIKit
+
+class View2Controller: UIViewController {
+
+    override func viewDidLoad() {
+        super.viewDidLoad()
+
+        // Do any additional setup after loading the view.
+    }
+    
+
+    /*
+    // MARK: - Navigation
+
+    // In a storyboard-based application, you will often want to do a little preparation before navigation
+    override func prepare(for segue: UIStoryboardSegue, sender: Any?) {
+        // Get the new view controller using segue.destination.
+        // Pass the selected object to the new view controller.
+    }
+    */
+
+}
